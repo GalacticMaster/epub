@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "NoraH1to <norah1to@qq.com>",
   "engines": {
-    "node": ">=14 <18"
+    "node": "18.x"
   },
   "main": "./src/main.tsx",
   "scripts": {
